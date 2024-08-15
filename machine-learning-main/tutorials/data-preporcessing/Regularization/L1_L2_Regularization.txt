@@ -1,0 +1,3 @@
+learn
+L1(Lesso Regression): cost + a*sum(coefficient)
+L2(Ridge Regression): cost + a*sum(coefficient^2)

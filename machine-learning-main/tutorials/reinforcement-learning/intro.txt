@@ -1,0 +1,13 @@
+1. Agent: Algorithm, learns from trial and error
+2. Environment:
+3. Action(A): All possible steps
+4. State(S): Current condition returned by the environment
+5. Reward(R): Appraise the last action
+6. Policy(pi): Approach to find next action based on current state
+7. Value(V): Long term return with discount
+8. Action-value(Q): Same as value with parameter Action
+9. Reward Maximization
+10. Exploration and Exploitation
+11. Markov's Decision Process(MDP)
+12. Q-Learning
+13. Bellman Equation

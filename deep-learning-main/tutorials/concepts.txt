@@ -1,0 +1,16 @@
+Convolution padding && stride
+Transfer learning
+Stochastic Gradient Descent(SGD)
+
+1. dimentionality problem solved
+2. automatic feature extraction
+3. gradient descent optimizer
+4. RMSPropOptimizer
+5. categorical loss entropy [tensorflow]
+
+Tensorflow Input Pipeline
+Optimize Tensorflow Pipeline Performance: prefetch & cache
+
+tf serving tutorial | tensorflow serving tutorial
+tf light
+Quantization in deep learning

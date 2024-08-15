@@ -1,0 +1,3 @@
+support = freq(A, B) / N
+confidence = freq(A, B) / freq(A)
+lift = support / supp(A) * supp(B) [more the lift more is the strength]

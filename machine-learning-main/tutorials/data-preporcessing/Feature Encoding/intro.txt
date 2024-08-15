@@ -1,0 +1,11 @@
+Related to categorical variable
+
+1. Label Encoding [for ordinal data]
+
+2. One Hot Encoding [for nominal data]
+    
+3. Dummy Variables
+    
+4. Dummy variable trap [delete one column to avoid trap]
+
+5. Curse of dimensionality [too much column]

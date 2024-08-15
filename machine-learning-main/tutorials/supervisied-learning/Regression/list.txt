@@ -1,0 +1,10 @@
+Linear Regression
+Polynomial Regression
+Logistic Regression
+Ridge Regression
+Lasso Regression
+Elastic Net Regression
+Decision Tree Regression
+Random Forest Regression
+Support Vector Regression
+Neural Network Regression

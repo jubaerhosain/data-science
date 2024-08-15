@@ -1,0 +1,11 @@
+1. univariate plot
+2. multivariate plot
+3. box plot
+4. kfolding
+5. cross validation
+6. local optima
+7. silhoutettee score [to check goodness in clustering]
+8. gaussian mixtures models
+9. hidden markov models
+10. Advacne signal processing techniques
+11. Time frequecy analysis
